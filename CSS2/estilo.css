@@ -1,0 +1,30 @@
+body {
+background-color: lightblue;
+background-image: url(2.jpeg);
+background-size: 75%;
+background-repeat: no-repeat;
+background-position: 300px 0px;
+}
+
+div {
+					font-size: 20px;
+					 background: white;
+					 background-color: rgba(255, 255, 255, 0.7);
+					 border: medium solid #97694F;
+					 border-top-right-radius: 16px;
+					 border-bottom-left-radius: 16px;
+					 border-top-left-radius: 16px;
+					 border-bottom-right-radius: 16px;
+					 margin-top:250px;
+					 margin-left: 450px;
+					 box-shadow: 1px 1px 2px 1px gray,1px 1px 2px 1px gray inset;
+					 border-width: 10px;		
+					 max-width: 270px;	
+					 height: 245px;
+					 padding-top: 10px;
+						padding-bottom: 6px;
+						padding-right: 12px;
+						padding-left: 12px;
+
+					}
+
