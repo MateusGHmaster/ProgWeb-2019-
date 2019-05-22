@@ -1,0 +1,9 @@
+questão_04
+
+	Hoisting permite que declarações do java script sejam levados para o topo do escopo.
+
+	Exemplo: hoisted(); // logs "pum"
+
+				function hoisted() {
+ 				console.log("pum");
+				}
