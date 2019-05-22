@@ -1,0 +1,6 @@
+questão_01
+
+ O primeiro erro está localizado na linha 4, uma vez que o comentário foi escrito de forma errada. A forma correta deveria ser <!comment>. 
+ O segundo erro está localizado na linha 17, onde a tag <span style="font-weight:bold"> foi aberta, mas não foi fechada.
+ O terceiro erro está localizado a partir da linha 9, onde há códigos de java script dentro de uma tag <style>.
+ O quarto erro foi não abrir uma tag <body></body> para inserir o restante do código.  
