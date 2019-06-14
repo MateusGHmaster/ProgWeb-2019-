@@ -1,3 +1,6 @@
+David: Hoisting definido corretamente. Código de exemplo correto.
+Nota: 2.0
+
 questão_04
 
 	Hoisting permite que declarações do java script sejam levados para o topo do escopo.
